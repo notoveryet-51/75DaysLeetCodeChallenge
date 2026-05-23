@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/1019-squares-of-a-sorted-array) |
+| [1127-last-stone-weight](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
