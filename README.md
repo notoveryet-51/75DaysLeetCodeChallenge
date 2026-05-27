@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/1019-squares-of-a-sorted-array) |
+| [1039-find-the-town-judge](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/0940-fruit-into-baskets) |
+| [1039-find-the-town-judge](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/1039-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
+## Graph Theory
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/notoveryet-51/75DaysLeetCodeChallenge/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
